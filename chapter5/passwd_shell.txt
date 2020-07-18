@@ -1,0 +1,14 @@
+/var/empty:/usr/bin/false:nobody,_taskgated,_installassistant,_scsd,_ces,_mcxalr,_appleevents,_serialnumberd,_devdocs,_sandbox,_mdnsresponder,_ard,_eppc,_cvs,_svn,_mysql,_sshd,_qtss,_mailman,_appserver,_jabber,_appowner,_windowserver,_spotlight,_tokend,_securityagent,_calendar,_update_sharing,_installer,_atsserver,_ftp,_unknown,_softwareupdate,_coreaudiod,_screensaver,_trustevaluationagent,_timezone,_lda,_cvmsroot,_dovecot,_dpaudio,_postgres,_krbtgt,_kadmin_admin,_kadmin_changepw,_devicemgr,_webauthserver,_netbios,_warmd,_dovenull,_netstatistics,_avbdeviced,_krb_krbtgt,_krb_kadmin,_krb_changepw,_krb_kerberos,_krb_anonymous,_assetcache,_coremediaiod,_xcsbuildagent,_xcscredserver,_launchservicesd
+/var/root:/bin/sh:root
+/var/root:/usr/bin/false:daemon
+/var/spool/uucp:/usr/sbin/uucico:_uucp
+/var/networkd:/usr/bin/false:_networkd
+/var/spool/cups:/usr/bin/false:_lp
+/var/spool/postfix:/usr/bin/false:_postfix
+/var/db/geod:/usr/bin/false:_geod
+/Library/WebServer:/usr/bin/false:_www
+/var/imap:/usr/bin/false:_cyrus
+/var/virusmails:/usr/bin/false:_clamav,_amavisd
+/var/teamsserver:/usr/bin/false:_teamsserver
+/var/db/locationd:/usr/bin/false:_locationd
+/var/db/lockdown:/usr/bin/false:_usbmuxd
